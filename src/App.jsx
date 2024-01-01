@@ -1,5 +1,3 @@
-import { useState, useEffect } from "react";
-import "./App.css";
 import Card from "./Components/Card";
 import Skills from "./Components/Skills";
 import TechSkill from "./Components/TechSkill";
